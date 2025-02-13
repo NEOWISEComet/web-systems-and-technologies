@@ -408,7 +408,7 @@ h1, h2, h3 {
 Create a profile card using HTML and basic CSS. The card should include a profile picture, name, short bio, and social media links.
 
 ## __Example:__
-![alt text](image.png)
+![alt text](srcs/image.png)
 
 > ## __ATTENTION: HOW TO SUBMIT PROJECT__
 ><br/>
@@ -416,4 +416,4 @@ Create a profile card using HTML and basic CSS. The card should include a profil
 > <br/>
 > <br/>
 
-> ![How to view project live](Untitled.png)
+> ![How to view project live](srcs/Untitled.png)
